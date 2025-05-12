@@ -3,8 +3,9 @@ This is a simple and user-friendly Currency Converter application that allows us
 
 
 Programming Language:  
-JavaScript, Python,Html,css
 
-API
+-> JavaScript, Python,Html,css
+
+-> API
 
 
